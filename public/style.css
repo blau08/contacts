@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+}
+/*button {
+  height: 3em;
+  width: 5em;
+  display: inline;
+  margin: 1em 1em;
+}*/
+.btn-div {
+  width: 50%
+  margin: 0 auto;
+}
+form {
+  margin: 0 auto;
+}
+ul, li {
+  padding: 0;
+  list-style-type: none;
+}
+h1 {
+  text-align: center;
+}
